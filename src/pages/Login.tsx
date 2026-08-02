@@ -94,7 +94,7 @@ export default function Login() {
 
         {/* Footer */}
         <p className="text-center text-xs text-muted-foreground">
-          © {new Date().getFullYear()} TSE Admin. All rights reserved.
+          © {new Date().getFullYear()} Admin Panel. All rights reserved.
         </p>
       </div>
     </div>
