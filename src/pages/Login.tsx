@@ -41,11 +41,7 @@ export default function Login() {
       <div className="w-full max-w-sm space-y-8">
         {/* Logo */}
         <div className="flex flex-col items-center gap-3">
-          <img
-            src={logo}
-            alt="TSE Admin"
-            className="h-14 object-contain"
-          />
+          <img src={logo} alt="TSE Admin" className="h-20 object-contain" />
           <div className="text-center">
             <h1 className="text-xl font-bold tracking-tight text-foreground">
               Welcome Back
